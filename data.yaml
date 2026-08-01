@@ -1,0 +1,7 @@
+
+train: "D:/adas/images/train"
+val: "D:/adas/images/val"
+test: "D:/adas/images/test"
+
+nc: 12
+names: ['Car', 'Bus', 'Truck', 'Van', 'Auto_rickshaw', 'Motorbike', 'Bicycle', 'Pedestrian', 'Animal', 'Traffic_light', 'Traffic_sign', 'Misc']

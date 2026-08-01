@@ -1,0 +1,27 @@
+# Model weights
+*.pt
+
+# Training outputs
+runs/
+
+# Large datasets
+images/
+labels/
+data_object_image_2/
+
+# Sub-project datasets and weights
+adas_object_detection/train/
+adas_object_detection/val/
+adas_object_detection/test/
+adas_object_detection/runs/
+adas_object_detection/*.pt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Cache files
+*.cache
+
+# Sample video (large)
+*.avi
+*.mp4

@@ -1,0 +1,24 @@
+# Dataset Configurations
+path: D:/adas/Main_Object_detection
+
+train: D:/adas/Main_Object_detection/train/images
+val: D:/adas/Main_Object_detection/val/images
+test: D:/adas/Main_Object_detection/test/images
+
+nc: 15
+names:
+  - animal
+  - autorickshaw
+  - bicycle
+  - bus
+  - car
+  - caravan
+  - motorcycle
+  - person
+  - rider
+  - traffic light
+  - traffic sign
+  - trailer
+  - train
+  - truck
+  - vehicle fallback
